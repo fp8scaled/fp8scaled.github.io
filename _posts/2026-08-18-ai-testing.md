@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Exploring Qwen Model Capabilities in Boogu"
+title: "Exploring Qwen Edit Model Capabilities in Boogu Edit"
 date: 2026-08-18
 categories: ai-testing
 tags: [qwen, boogu, llm, testing]
 ---
 
-In this initial post, we are testing the core features and capabilities of Qwen using Boogu. 
+In this initial post, we are testing the core features and capabilities of Qwen using Boogu. Refer to https://huggingface.co/Qwen/Qwen-Image-Edit-2511
 
-## Test Objectives
-* Evaluate prompt adherence and response latency.
-* Test tool call efficiency and structured data generation.
-* Observe edge-case handling across complex queries.
+## Test 1
+![Test 1](https://github.sinimari.com/img/HDP_01.jpg)
 
-## Early Observations
-Stay tuned for the full breakdown of test results in upcoming posts!
+### Prompt text:
+```html
+生成圣诞节主题，一位纯欲气质的美少女，图中人脸不变。松散的双麻花辫松散低扎（麻花辫上有布艺彩球装饰），少女气质，无辜眼神，头戴圣诞树造型发饰，小型锥形圣诞树整齐地固定在头顶，顶部是金色五角星，树身装饰着彩色灯串、金色铃铛、蝴蝶结、红蓝金小球，布置精致饱满；冷白皮，白嫩嫩的皮肤如琼玉般嫩滑，纯欲朦胧滤镜，红棕系眼影自然晕染，双手拿着圣诞老人玩具，圣诞氛围拉满，庆祝感眼神和表情，轻轻歪头，俏皮好看的动作，可爱与性感并存，反差；蓬松微乱发丝与头顶圣诞树自然融合；穿毛绒红色上衣，质感柔软蓬松；暖白背景、棚拍柔光、低对比度、低饱和度、细腻胶片颗粒、轻微色散光晕、胶片柔光感、温暖治愈氛围、独特视角，非常规构图，70mm胶片人像风格绿色涂鸦描边人物轮廓，描边周围空白处还有各种圣诞节元素的可爱涂鸦，充满童趣和圣诞氛围的手绘拼贴感。人物轮廓荧光红绿金色虚线波点包裹，写满了“MERRY CHRISMAS”可爱字体，中景
+```
