@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exploring Qwen Edit Model Capabilities in Boogu Edit"
+title: "Exploring Qwen Edit Model Capabilities using Boogu Edit"
 date: 2026-08-18
 categories: ai-testing
 tags: [qwen, boogu, llm, testing]
@@ -46,6 +46,21 @@ SHA256: b0bdd36eb559d62e8169e16a1e8b4438f8be17fc092ca9d43a2d8460c1d79e6a
 ```
 ### Output image:
 ![Test 1](https://github.sinimari.com/img/HDP_02_2.jpg)
+
+---
+
+## Test 3
+![Test 1](https://github.sinimari.com/img/HDP_03.jpg)
+
+### Input image:
+![Test 1](https://github.sinimari.com/img/HDP_03_1.jpg)
+
+### Prompt text:
+```html
+生成竖版3:4画面比例的“真人与其对应卡通壁画合影”场景图像：将上传的真实人物照片以原样保留服装、发型、妆容置于画面左侧/前方。在真人背后墙面绘制1:1对应卡通壁画，厚涂质感且采用动漫风格大眼、柔和轮廓五官，完整复刻发型、服装及配饰细节如耳环、项链等，色彩饱和度高并带有涂鸦式笔触效果。墙面添加彩色涂鸦爱心、笑脸、几何图案元素，地面点缀飞溅颜料装饰细节，壁画区域融入如“2026发财”的中文字元素，字体风格契合涂鸦美学。确保真人与壁画比例、角度自然衔接，光照方向统一符合场景逻辑，保持整体色彩风格一致，呈现生动、连贯且视觉和谐效果
+```
+### Output image:
+![Test 1](https://github.sinimari.com/img/HDP_03_2.jpg)
 
 ---
 
