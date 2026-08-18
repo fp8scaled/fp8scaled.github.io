@@ -12,7 +12,7 @@ In this initial post, we are testing the core features and capabilities of Qwen 
 boogu_image_edit_turbo_hotfix_1k_20260708_int8_convrot.safetensors
 SHA256: b0bdd36eb559d62e8169e16a1e8b4438f8be17fc092ca9d43a2d8460c1d79e6a
 
-__Improve Character Consistency__
+## __Improve Character Consistency__
 * [1. Test 1](#test-1)
 * [2. Test 2](#test-2)
 * [3. Test 3](#test-3)
