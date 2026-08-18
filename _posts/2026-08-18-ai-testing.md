@@ -17,6 +17,8 @@ SHA256: b0bdd36eb559d62e8169e16a1e8b4438f8be17fc092ca9d43a2d8460c1d79e6a
 * [1. Test 1](#test-1)
 * [2. Test 2](#test-2)
 * [3. Test 3](#test-3)
+* [4. Test 4](#test-4)
+* [5. Test 5](#test-5)
 
 
 ## Test 1
@@ -35,40 +37,40 @@ SHA256: b0bdd36eb559d62e8169e16a1e8b4438f8be17fc092ca9d43a2d8460c1d79e6a
 ---
 
 ## Test 2
-![Test 1](https://github.sinimari.com/img/HDP_02.jpg)
+![Test 2](https://github.sinimari.com/img/HDP_02.jpg)
 
 ### Input image:
-![Test 1](https://github.sinimari.com/img/HDP_02_1.jpg)
+![Test 2](https://github.sinimari.com/img/HDP_02_1.jpg)
 
 ### Prompt text:
 ```html
 生成一张四宫格图片。以下要求：人物：参考图人物分四个画面呈现不同动作表情。左上：双手举过头顶比双“V”，眼睛大睁、嘴巴张开，露出惊讶活泼的神态。右上：双手托住脸颊，双眼微闭、嘴巴嘟起，脸颊带红晕，呈现可爱娇憨感。左下：头微侧，一只眼睛wink，舌头吐出，单手比“V”，俏皮搞笑。右下：双臂交叉在胸前，眉头微皱、嘴巴嘟起，呈现小傲娇神态。服饰：根据参考图不变。背景与风格：充满疯狂动物城等可爱卡通元素的彩色背景，整体为二次元动漫风格，画面色彩鲜艳、风格甜美治愈，每幅小图都有精致的卡通边框装饰，充满童趣感。
 ```
 ### Output image:
-![Test 1](https://github.sinimari.com/img/HDP_02_2.jpg)
+![Test 2](https://github.sinimari.com/img/HDP_02_2.jpg)
 
 ---
 
 ## Test 3
-![Test 1](https://github.sinimari.com/img/HDP_03.jpg)
+![Test 3](https://github.sinimari.com/img/HDP_03.jpg)
 
 ### Input image:
-![Test 1](https://github.sinimari.com/img/HDP_03_1.jpg)
+![Test 3](https://github.sinimari.com/img/HDP_03_1.jpg)
 
 ### Prompt text:
 ```html
 生成竖版3:4画面比例的“真人与其对应卡通壁画合影”场景图像：将上传的真实人物照片以原样保留服装、发型、妆容置于画面左侧/前方。在真人背后墙面绘制1:1对应卡通壁画，厚涂质感且采用动漫风格大眼、柔和轮廓五官，完整复刻发型、服装及配饰细节如耳环、项链等，色彩饱和度高并带有涂鸦式笔触效果。墙面添加彩色涂鸦爱心、笑脸、几何图案元素，地面点缀飞溅颜料装饰细节，壁画区域融入如“2026发财”的中文字元素，字体风格契合涂鸦美学。确保真人与壁画比例、角度自然衔接，光照方向统一符合场景逻辑，保持整体色彩风格一致，呈现生动、连贯且视觉和谐效果
 ```
 ### Output image:
-![Test 1](https://github.sinimari.com/img/HDP_03_2.jpg)
+![Test 3](https://github.sinimari.com/img/HDP_03_2.jpg)
 
 ---
 
 ## Test 4
-![Test 1](https://github.sinimari.com/img/HDP_04.jpg)
+![Test 4](https://github.sinimari.com/img/HDP_04.jpg)
 
 ### Input image:
-![Test 1](https://github.sinimari.com/img/HDP_04_1.jpg)
+![Test 4](https://github.sinimari.com/img/HDP_04_1.jpg)
 
 ### Prompt text:
 ```html
@@ -79,6 +81,34 @@ SHA256: b0bdd36eb559d62e8169e16a1e8b4438f8be17fc092ca9d43a2d8460c1d79e6a
 生成一个手拿着压制好的边缘不规则的平面像素拼豆成品照片，把图片变成16颜色平面像素Q版形象拼豆成品，拼豆扁平没有凸起，保持参考图主体特征不变，背景是工作台台面
 ```
 ### Output image:
-![Test 1](https://github.sinimari.com/img/HDP_04_2.jpg)
+![Test 4](https://github.sinimari.com/img/HDP_04_2.jpg)
 
 ---
+
+## Test 5
+![Test 5](https://github.sinimari.com/img/HDP_05.jpg)
+
+### Input image:
+![Test 5](https://github.sinimari.com/img/HDP_05_1.jpg)
+![Test 5](https://github.sinimari.com/img/HDP_05_2.jpg)
+
+### Prompt text:
+```html
+生成一个手拿着压制好的边缘不规则的平面像素拼豆成品照片，拼豆的内容是参考图中的像素Q版形象，拼豆扁平没有凸起，保持参考图主体特征不变，背景是工作台台面
+```
+### Boogu Prompt text:
+```html
+把图1男生和图2女生，放在一起，两个人，一起做一个“嘘”的手势。
+```
+### Output image:
+![Test 5](https://github.sinimari.com/img/HDP_05_3.jpg)
+
+
+### Boogu Prompt text:
+```html
+把图1女生和图2男生，放在一起，两个人，一起做一个“嘘”的手势。
+```
+### Output image:
+![Test 5](https://github.sinimari.com/img/HDP_05_4.jpg)
+---
+
