@@ -6,7 +6,7 @@ categories: ai-testing
 tags: [qwen, boogu, llm, testing]
 ---
 
-In this initial post, we are testing the core features and capabilities of Qwen Edit using Boogu Edit. Refer to ![https://huggingface.co/Qwen/Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)
+In this initial post, we are testing the core features and capabilities of Qwen Edit using Boogu Edit. Refer to [https://huggingface.co/Qwen/Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)
 
 # __Files__
 boogu_image_edit_turbo_hotfix_1k_20260708_int8_convrot.safetensors
