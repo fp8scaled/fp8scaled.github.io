@@ -64,3 +64,21 @@ SHA256: b0bdd36eb559d62e8169e16a1e8b4438f8be17fc092ca9d43a2d8460c1d79e6a
 
 ---
 
+## Test 4
+![Test 1](https://github.sinimari.com/img/HDP_04.jpg)
+
+### Input image:
+![Test 1](https://github.sinimari.com/img/HDP_04_1.jpg)
+
+### Prompt text:
+```html
+生成一个手拿着压制好的边缘不规则的平面像素拼豆成品照片，拼豆的内容是参考图中的像素Q版形象，拼豆扁平没有凸起，保持参考图主体特征不变，背景是工作台台面
+```
+### Boogu Prompt text:
+[!CAUTION]
+生成一个手拿着压制好的边缘不规则的平面像素拼豆成品照片，把图片变成16颜色平面像素Q版形象拼豆成品，拼豆扁平没有凸起，保持参考图主体特征不变，背景是工作台台面
+
+### Output image:
+![Test 1](https://github.sinimari.com/img/HDP_04_2.jpg)
+
+---
