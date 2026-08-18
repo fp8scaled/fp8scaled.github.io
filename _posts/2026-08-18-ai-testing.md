@@ -18,7 +18,7 @@ Improve Character Consistency
 * [3. Test 3](#test3)
 
 
-## Test 1
+## Test 1{: #test1}
 ![Test 1](https://github.sinimari.com/img/HDP_01.jpg)
 
 ### Input image:
