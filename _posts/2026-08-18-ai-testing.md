@@ -6,10 +6,11 @@ categories: ai-testing
 tags: [qwen, boogu, llm, testing]
 ---
 
-In this initial post, we are testing the core features and capabilities of Qwen Edit using Boogu Edit. Refer to https://huggingface.co/Qwen/Qwen-Image-Edit-2511
+In this initial post, we are testing the core features and capabilities of Qwen Edit using Boogu Edit. Refer to ![https://huggingface.co/Qwen/Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)
 
-# Files
+# __Files__
 boogu_image_edit_turbo_hotfix_1k_20260708_int8_convrot.safetensors
+
 SHA256: b0bdd36eb559d62e8169e16a1e8b4438f8be17fc092ca9d43a2d8460c1d79e6a
 
 ## __Improve Character Consistency__
@@ -32,3 +33,19 @@ SHA256: b0bdd36eb559d62e8169e16a1e8b4438f8be17fc092ca9d43a2d8460c1d79e6a
 ![Test 1](https://github.sinimari.com/img/HDP_01_2.jpg)
 
 ---
+
+## Test 2
+![Test 1](https://github.sinimari.com/img/HDP_02.jpg)
+
+### Input image:
+![Test 1](https://github.sinimari.com/img/HDP_02_1.jpg)
+
+### Prompt text:
+```html
+生成一张四宫格图片。以下要求：人物：参考图人物分四个画面呈现不同动作表情。左上：双手举过头顶比双“V”，眼睛大睁、嘴巴张开，露出惊讶活泼的神态。右上：双手托住脸颊，双眼微闭、嘴巴嘟起，脸颊带红晕，呈现可爱娇憨感。左下：头微侧，一只眼睛wink，舌头吐出，单手比“V”，俏皮搞笑。右下：双臂交叉在胸前，眉头微皱、嘴巴嘟起，呈现小傲娇神态。服饰：根据参考图不变。背景与风格：充满疯狂动物城等可爱卡通元素的彩色背景，整体为二次元动漫风格，画面色彩鲜艳、风格甜美治愈，每幅小图都有精致的卡通边框装饰，充满童趣感。
+```
+### Output image:
+![Test 1](https://github.sinimari.com/img/HDP_02_2.jpg)
+
+---
+
