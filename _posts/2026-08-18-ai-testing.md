@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Exploring Qwen Edit Model Capabilities using Boogu Edit"
+title: "Boogu Edit on Qwen Edit Demos"
 date: 2026-08-18
 categories: ai-testing
 tags: [qwen, boogu, llm, testing]
 ---
 
-In this initial post, we are testing the core features and capabilities of Qwen Edit using Boogu Edit. Refer to [https://huggingface.co/Qwen/Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)
+In this initial post, we are evaluating Boogu Edit model against the test scenarios from the Qwen Edit demo. By applying Boogu Edit to nearly identical input images and editing prompts, we assess its relative output quality, instruction following ability and overall image output editing capabilities compared to Qwen Edit output. Refer to [https://huggingface.co/Qwen/Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)
 
 # __Files__
 boogu_image_edit_turbo_hotfix_1k_20260708_int8_convrot.safetensors
