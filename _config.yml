@@ -1,0 +1,10 @@
+title: fp8scaled
+description: fp8scaled
+theme: minima
+
+# Pagination Settings
+plugins:
+  - jekyll-paginate
+
+paginate: 8                     # Number of posts per page
+paginate_path: "/page:num/"     # URL path for subsequent pages
