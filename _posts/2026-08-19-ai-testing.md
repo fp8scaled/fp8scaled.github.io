@@ -93,10 +93,10 @@ SHA256: b0bdd36eb559d62e8169e16a1e8b4438f8be17fc092ca9d43a2d8460c1d79e6a
 ```
 ### Boogu Prompt text:
 ```html
-
+暂时没办法。
 ```
 ### Output image:
-![Test 9](https://github.sinimari.com/img/HDP_10_2.jpg)
+![Test 10](https://github.sinimari.com/img/HDP_10_2.jpg)
 
 ---
 
