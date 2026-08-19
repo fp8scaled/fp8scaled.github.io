@@ -16,9 +16,11 @@ SHA256: b0bdd36eb559d62e8169e16a1e8b4438f8be17fc092ca9d43a2d8460c1d79e6a
 ## __Lora Integration - Relighting__
 * [1. Test 7](#test-7)
 * [2. Test 8](#test-8)
+
 ## __Lora Integration - Novel View Synthesis__
 * [3. Test 9](#test-9)
 * [4. Test 10](#test-10)
+
 ## __Industry Design__
 * [5. Test 11](#test-11)
 * [5. Test 12](#test-12)
@@ -78,6 +80,23 @@ SHA256: b0bdd36eb559d62e8169e16a1e8b4438f8be17fc092ca9d43a2d8460c1d79e6a
 ![Test 9](https://github.sinimari.com/img/HDP_09_2.jpg)
 
 ---
+
+## Test 10
+![Test 10](https://github.sinimari.com/img/HDP_10.jpg)
+
+### Input image:
+![Test 10](https://github.sinimari.com/img/HDP_10_1.jpg)
+
+### Prompt text:
+```html
+将镜头向左旋转30度
+```
+### Boogu Prompt text:
+```html
+
+```
+### Output image:
+![Test 9](https://github.sinimari.com/img/HDP_10_2.jpg)
 
 ---
 
