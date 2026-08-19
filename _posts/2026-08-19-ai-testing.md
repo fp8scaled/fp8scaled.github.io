@@ -100,3 +100,18 @@ SHA256: b0bdd36eb559d62e8169e16a1e8b4438f8be17fc092ca9d43a2d8460c1d79e6a
 
 ---
 
+## Test 11
+![Test 11](https://github.sinimari.com/img/HDP_11.jpg)
+
+### Input image:
+![Test 11](https://github.sinimari.com/img/HDP_11_1.jpg)
+
+### Prompt text:
+```html
+把图中的汽车变成灰色
+```
+
+### Output image:
+![Test 11](https://github.sinimari.com/img/HDP_11_2.jpg)
+
+---
