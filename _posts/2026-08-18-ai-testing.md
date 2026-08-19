@@ -114,3 +114,23 @@ SHA256: b0bdd36eb559d62e8169e16a1e8b4438f8be17fc092ca9d43a2d8460c1d79e6a
 
 ---
 
+## Test 6
+![Test 6](https://github.sinimari.com/img/HDP_06.jpg)
+
+### Input image:
+![Test 6](https://github.sinimari.com/img/HDP_06_1.jpg)
+![Test 6](https://github.sinimari.com/img/HDP_06_2.jpg)
+
+### Prompt text:
+```html
+女生抱着这只小猫。
+```
+### Boogu Prompt text:
+```html
+图1的小猫被图2女生放在大腿上。图2女生举起双手抱着小猫。
+```
+### Output image:
+![Test 6](https://github.sinimari.com/img/HDP_06_3.jpg)
+
+---
+
