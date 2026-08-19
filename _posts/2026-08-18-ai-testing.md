@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boogu Edit on Qwen Edit Demos"
+title: "Boogu Edit on Qwen Edit Demos 1"
 date: 2026-08-18
 categories: ai-testing
 tags: [qwen, boogu, llm, testing]
