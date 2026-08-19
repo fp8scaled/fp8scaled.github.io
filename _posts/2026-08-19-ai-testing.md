@@ -115,3 +115,19 @@ SHA256: b0bdd36eb559d62e8169e16a1e8b4438f8be17fc092ca9d43a2d8460c1d79e6a
 ![Test 11](https://github.sinimari.com/img/HDP_11_2.jpg)
 
 ---
+
+## Test 12
+![Test 12](https://github.sinimari.com/img/HDP_12.jpg)
+
+### Input image:
+![Test 12](https://github.sinimari.com/img/HDP_12_1.jpg)
+
+### Prompt text:
+```html
+把图片中5kg砝码的拉提手部分去掉
+```
+
+### Output image:
+![Test 12](https://github.sinimari.com/img/HDP_12_2.jpg)
+
+---
