@@ -94,7 +94,7 @@ SHA256: b0bdd36eb559d62e8169e16a1e8b4438f8be17fc092ca9d43a2d8460c1d79e6a
 
 ### Prompt text:
 ```html
-生成一个手拿着压制好的边缘不规则的平面像素拼豆成品照片，拼豆的内容是参考图中的像素Q版形象，拼豆扁平没有凸起，保持参考图主体特征不变，背景是工作台台面
+两个人，一起做一个“嘘”的手势。
 ```
 ### Boogu Prompt text:
 ```html
@@ -110,5 +110,6 @@ SHA256: b0bdd36eb559d62e8169e16a1e8b4438f8be17fc092ca9d43a2d8460c1d79e6a
 ```
 ### Output image:
 ![Test 5](https://github.sinimari.com/img/HDP_05_4.jpg)
+
 ---
 
